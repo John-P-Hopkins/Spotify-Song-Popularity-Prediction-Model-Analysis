@@ -4,7 +4,7 @@ If you're an artist, producer, or music enthusiast, knowing how a song will perf
 
 ## Collecting the Data
 
-The quality of data is crucial for building a reliable model. The dataset was chosen from Kaggle's [Spotify Tracks Dataset](https://www.kaggle.com/yamaerenay/spotify-tracks-dataset), containing Spotify tracks over a range of 125 different genres obtained from the Spotify API. The data was released by Spotify on October 22, 2022. The resulting data was 15 columns and 112,059 rows with 1,680,885 samples.
+The quality of data is crucial for building a reliable model. The dataset was chosen from Kaggle's [Spotify Tracks Dataset](https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset), containing Spotify tracks over a range of 125 different genres obtained from the Spotify API. The data was released by Spotify on October 22, 2022. The resulting data was 15 columns and 112,059 rows with 1,680,885 samples.
 
 ## Strategies for Data Cleaning
 
